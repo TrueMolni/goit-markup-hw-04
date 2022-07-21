@@ -518,7 +518,7 @@ border-radius: 4px;
 .footer-social-links {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    padding-top: 15px;
     margin-left: 70px;
 }
 
